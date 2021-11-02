@@ -1,0 +1,58 @@
+  body{
+    color: brown;
+    background-image: url("pexels-steve-johnson-1988693.jpg");
+     background-color: #cccccc;
+     height: 100%;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+  }
+  .heading
+  {
+    font-size: 25px;
+    font-weight: bold;
+  width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background-color: rgba(0, 247, 255, 0.692);
+  }
+  .heading_div
+  {
+    background: rgba(0, 255, 76, 0.603) ; 
+    border-radius: 20px; 
+    box-shadow:5px 5px 5px grey;
+    float: none;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 3px grey;
+    font-size: 20px;
+    font-weight: bolder;
+    color: brown;
+    background-color: gold;
+  }
+  .result_para_tag span{
+    white-space: pre-wrap;
+  }
+
+  .copyright_footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: rgba(222, 184, 135, 0.801);
+    font-weight: bolder;
+    text-align: center;
+    font-weight: bold;
+    line-height: 3;
+  }
+  canvas{
+    border-radius: 30px;
+    border: 12px solid black;
+    margin-top: 135px;
+  }
+
+ 
